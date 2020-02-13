@@ -1,4 +1,5 @@
 ﻿using System;
+using Library;
 
 namespace ClassesChallenge
 {
@@ -13,13 +14,5 @@ namespace ClassesChallenge
         }
     }
 
-    class Shelf
-    {
-        public static int numberOfBooks = 0;
-
-        public static void AddBook()
-        {
-            numberOfBooks++;
-        }
-    }
+    
 }
