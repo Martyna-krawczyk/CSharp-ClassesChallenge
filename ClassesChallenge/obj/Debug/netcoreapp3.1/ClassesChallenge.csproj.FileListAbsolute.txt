@@ -1,0 +1,11 @@
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/bin/Debug/netcoreapp3.1/ClassesChallenge
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/bin/Debug/netcoreapp3.1/ClassesChallenge.deps.json
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/bin/Debug/netcoreapp3.1/ClassesChallenge.runtimeconfig.json
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/bin/Debug/netcoreapp3.1/ClassesChallenge.runtimeconfig.dev.json
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/bin/Debug/netcoreapp3.1/ClassesChallenge.dll
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/bin/Debug/netcoreapp3.1/ClassesChallenge.pdb
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/obj/Debug/netcoreapp3.1/ClassesChallenge.csprojAssemblyReference.cache
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/obj/Debug/netcoreapp3.1/ClassesChallenge.AssemblyInfoInputs.cache
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/obj/Debug/netcoreapp3.1/ClassesChallenge.AssemblyInfo.cs
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/obj/Debug/netcoreapp3.1/ClassesChallenge.dll
+/Users/martyna.krawczyk/Projects/ClassesChallenge/ClassesChallenge/obj/Debug/netcoreapp3.1/ClassesChallenge.pdb
