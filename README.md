@@ -50,6 +50,7 @@ In your Program.cs file create two new instances of Book.
 First one using the 3 parameter constructor
 Add a couple new characters using the AddCharacter method
 Second one using the 4 parameter constructor and passing in a List of characters.<br/>
+
 Challenge 4-4 - Putting Books On A Shelf<br/>
  Create a new private property on Shelf named books that will hold a List of Book
 Create a new public static method on Shelf named AddBook
