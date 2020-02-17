@@ -1,6 +1,6 @@
 # CSharp-ClassesChallenge
 
-Challenge 4-1 - Shelf Starter
+Challenge 4-1 - Shelf Starter<br/>
 Create a new class within your Program.cs file named Shelf
 Create a new public static property on the Shelf class that is a int named numberOfBooks
 Create a new public static method on the Shelf class called AddBook
@@ -12,7 +12,7 @@ Add Two books using the AddBook method
 Print the console the numberOfBooks property in the Main() method
  
 
-Challenge 4-2 - Shelf in a Library
+Challenge 4-2 - Shelf in a Library<br/>
  Move your Shelf class into another file and make sure everything still works
 
 Change the namespace in the new file with your Shelf class to Library
@@ -21,13 +21,13 @@ Update your Project.cs file so that everything is working again with the new nam
 
  
 
-Challenge 4-3 - Your New Book!
+Challenge 4-3 - Your New Book!<br/>
  Create a new file and define a Book class
  Create a constructor on the Book class which has 3 parameters
 title (string)
 author (string)
 pages (int)
-Create 3 public instance properties of the same name in the class
+Create 3 public instance properties of the same name in the class<br/>
 Save the values from the parameters in the constructor to the properties on the class
  Create a new private property named characters on the Book class which is a List that can hold strings
 Create a new public method on the Book class named AddCharacter
@@ -49,8 +49,8 @@ Body of the method will print out each character name from the characters proper
 In your Program.cs file create two new instances of Book.
 First one using the 3 parameter constructor
 Add a couple new characters using the AddCharacter method
-Second one using the 4 parameter constructor and passing in a List of characters.
-Challenge 4-4 - Putting Books On A Shelf
+Second one using the 4 parameter constructor and passing in a List of characters.<br/>
+Challenge 4-4 - Putting Books On A Shelf<br/>
  Create a new private property on Shelf named books that will hold a List of Book
 Create a new public static method on Shelf named AddBook
 Has 1 parameter which is a Book named book
@@ -65,7 +65,7 @@ In Programs.cs use the AddBook method to add your two books to Shelf
 In Program.cs call the ListBooks method (you should see your book titles printed to the console)
  
 
-Challenge 4-5 - Counting Books
+Challenge 4-5 - Counting Books<br/>
 In Shelf remove the default value of 0 from numberOfBooks
 
 Remove the incrementor from the AddBook() method.
@@ -76,7 +76,7 @@ Do not define a setter
 In Program.cs Console.WriteLine() the numberOfBooks property from Shelf. You should see the number 2 printed.
  
 
-Challenge 4-6 - Searching For A Book
+Challenge 4-6 - Searching For A Book<br/>
 On the Shelf class create a new public static method named HasBook
 
 Has one parameter that is a string named title
